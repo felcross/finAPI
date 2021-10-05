@@ -1,2 +1,2 @@
 # finAPI
-API de movimentação bancaria com Express
+API de movimentação bancária com Express
